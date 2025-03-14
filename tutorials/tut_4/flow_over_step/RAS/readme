@@ -1,5 +1,0 @@
-This directory contains the following cases:
-1. step_3D_m4: three-dimensional flow-over-a-step case with m4 script to generate "system/blockMeshDict" file.
-2. step_2D_m4: two-dimensional flow-over-a-step case with m4 script to generate "system/blockMeshDict" file.
-3. step_2D_calc: two-dimensional flow-over-a-step case built-in inline #calc in "system/blockMeshDict" file.
-4. step_2D_eval: two-dimensional flow-over-a-step case built-in inline #eval in "system/blockMeshDict" file.
